@@ -1,2 +1,2 @@
-# Java-Scratch
-Review Java
+# Java-Review
+Reviewing java programming language
